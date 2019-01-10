@@ -53,4 +53,12 @@ footer{
 .vidsize{
     width: 300px;
     height: 300px;
+    margin-top: 10px;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    background-color: red;
+}
+.dropdown-item{
+    color: white;
 }
