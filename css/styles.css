@@ -1,0 +1,56 @@
+.bg-light{
+    background-color: red !important;
+}
+.navbar-light .navbar-brand{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.top{
+    margin-top: 20px;
+    min-height: 300px;
+    border-right:2px solid gray;
+    background-color: gray;
+}
+.cola{
+    min-height: 300px;
+    border-right:2px solid gray;
+    background-color: gray;
+    margin-top: 20px;
+}
+.colb{
+    min-height: 300px;
+    margin-top: 20px;
+    background-color: gray;
+    overflow: scroll;
+}
+.heading{
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+footer{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.space {
+    margin-top: 50px;
+}
+.radius{
+    border-radius: 50px;
+    margin-top: 250px;
+}
+@media(max-width: 400px){
+    audio {
+        width: 300px;
+    }
+}
+.img-fluid {
+    width: 30px;
+}
+.vidsize{
+    width: 300px;
+    height: 300px;
+}
